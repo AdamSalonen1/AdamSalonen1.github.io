@@ -1,0 +1,26 @@
+h1{
+    font-family: "Ariel";
+    text-align: center;
+}
+
+p{
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+/* 
+    default font size on most  browswers is 16px
+    1em  = 16px, 2em = 32px 
+    setting the default font size for body to 20px
+*/
+body{
+    font-size: 20px;
+}
+
+/* 
+    setting the font size of id #two to 2 times the default font size
+*/
+
+#two{
+    font-size: 2.0em;
+}

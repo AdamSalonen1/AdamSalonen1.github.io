@@ -1,0 +1,25 @@
+/* commensts *
+selected tag{
+    property:value;
+}
+*/
+
+h1{
+    color:blue;
+}
+
+h2{
+    color:red;
+}
+
+li{
+    color:rgb(106,229,89);
+}
+
+h3{
+    color:rgba(106, 229, 89, 10)
+}
+
+p{
+    color:#6531ea;
+}

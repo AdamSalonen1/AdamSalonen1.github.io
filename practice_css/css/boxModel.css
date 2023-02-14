@@ -1,0 +1,20 @@
+#top{
+    border: 4px solid blue;
+    width: 25%; /*25% of width of actual page*/
+    text-align: center;
+    /*to center the blue border we would have to modify the margin*/
+    /*top, right, bottom, left
+           margin: 10px 20px 100px 400px;
+    */
+ 
+    /*auto would center the box model, keeping both sides equal however you resize the page*/
+    margin: auto
+   
+}
+
+#bottom {
+    border: 4px solid red;
+    width: 50%;
+    padding : 200px;
+    text-align: center;
+}
