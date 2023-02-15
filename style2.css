@@ -32,6 +32,7 @@
 #hobbies{
     color: whitesmoke;
     border-color: white;
+    padding-top: 5%;
 }
 
 #justhobbies{
@@ -48,6 +49,7 @@
 }
 
 #movies{
+    padding-top: 5%;
     display:flex;
     justify-content: right;
 }
@@ -76,7 +78,7 @@
     justify-content: center;
 
     height: auto;
-    width: 50%;
+    width: 33%;
 }
 
 
@@ -120,6 +122,7 @@
 
 #links p{
     text-align: center;
+    font-weight: bold;
 }
 
 #leia{
