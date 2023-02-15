@@ -1,16 +1,156 @@
+/* *{
+    background-color: black;
+    color: white;
+} */
 
+#headings{
+    background-color: green;
+    position: absolute;
+    height: 200px;
+    width:100%;
+}
 
 
 h1{
-    color: green;
-    
+    color: gold;
+    text-align: center;
+
 }
 
 h2{
-    color: red;
-    background-color: blue;
+    color: gold;
+    text-align: center;
 }
 
-/* div {
+#adamdog{
+    position: relative;
+    bottom: 110px;
+    right: 0%;
+
+    height: 208px;
+    width: auto;
+}
+
+#schedule{
+    position: absolute;
+    right: 1%;
+    bottom: 5%;
+}
+#schedule p{
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#table1, tr, th{
+    border: 2px solid;
+    border-collapse: collapse;
+    
+    border-color: aqua;
+    
+}
+
+#links{
+    position: absolute;
+    right: 0%;
+    height:727px;
+    width: 17%;
+    background-color: purple;
+    top: 210px;
+    display: flex;
+    justify-content: center;
+}
+#links ul{
+    position:absolute;
+    top: 15%;
+    left: 1%;
+}
+
+#leia{
+    position:absolute;
+    top: 38%;
+}
+
+#links p{
+    position: absolute;
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+#links img{
+    position:absolute;
+    top: 50%;
+    width: 200px;
+
+}
+
+#recent{
+    position: absolute;
+    color: white;
+    bottom: 35%;
+    left: 3%;
+}
+
+#pi{
+    height: 200px;
+    position: absolute;
+    bottom: 3%;
+    left: 3%;
+}
+
+#bulk{
+    position: absolute;
+    top: 50%;
+}
+
+#bulk{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 210px;
+    left:0%;
+    width: 82%;
+    height: 727px;
+    padding: 10px;
+}
+
+#movies{
+    width: fit-content;
+    padding: 1%;
+    position: absolute;
+    right: 1%;
+    top: 150px;
+    border-color: red;
+    border:2px;
+    border-style:dotted;
+}
+#movies p{
+    font-weight: bold;
     color: red;
-} */
+}
+
+#hobbies{
+    color: whitesmoke;
+    padding: 1%;
+    width: fit-content;
+    position: absolute;
+    left: 1%;
+    top: 150px;
+    border-color: white;
+    border:2px;
+    border-style: dotted;
+}
+
+#hobbies p{
+    font-weight: bold;
+    text-align: center;
+}
+
+#darkside{
+    position: absolute;
+    height: 450px;
+    top: 12%;
+    left:35%;
+}
