@@ -1,0 +1,127 @@
+#headings{
+    background-color: green;
+}
+#headingstext{
+    text-align: center;
+    color: gold;
+}
+
+#adamdog{
+    height: 10%;
+    width: auto;
+}
+
+#bulk{
+    background-color: black;
+    color: white;
+}
+
+#paragraph{
+    padding-top: 1%;
+}
+
+#links{
+    background-color: pink;
+}
+
+#darkrow{
+    padding: 1%;
+    padding-top: 5%;
+}
+
+#hobbies{
+    color: whitesmoke;
+    border-color: white;
+}
+
+#justhobbies{
+    width: fit-content;
+    height: fit-content;
+    border: 2px;
+    border-style: dotted;
+    padding: 5%;
+}
+
+#darkside{    
+    width: 25%;
+    height: 20%;
+}
+
+#movies{
+    display:flex;
+    justify-content: right;
+}
+#justmovies{
+    width: fit-content;
+    height: fit-content;
+    border: 2px;
+    border-style: dotted;
+    padding: 5%;
+}
+
+#movies p{
+    font-weight: bold;
+    color: red;
+}
+
+#recentproject{
+    padding-left: 5%;
+}
+#project{
+    display: flex;
+    justify-content: center;
+}
+#pi{
+    display: flex;
+    justify-content: center;
+
+    height: auto;
+    width: 50%;
+}
+
+
+#schedule{
+    padding-left: 10%;
+}
+#schedule table{
+    display: flex;
+    justify-content: center;
+}
+#schedule p{
+    display: flex;
+    justify-content: center;
+}
+
+#tr, th{
+    border: 2px solid;
+    border-collapse:separate;
+    
+    border-color: aqua;
+    
+}
+
+#schedulerow{
+    padding:20px;
+}
+
+#schedule{
+    text-align: center;
+}
+
+#links{
+    background-color: gold;
+    color: green;
+    padding-top: 1%;
+}
+
+#links p, #links ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#links p{
+    text-align: center;
+}
+
+#leia{
+    padding-top: 12%;
+}
